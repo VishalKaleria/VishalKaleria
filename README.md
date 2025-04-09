@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Vishal Kaleria
 
-<!--
-**VishalKaleria/VishalKaleria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a self-taught full-stack developer, born on April 10, 2007.
 
-Here are some ideas to get you started:
+I build things on my own — quietly, patiently, and with purpose.  
+I don’t have much, but I have curiosity, persistence, and code.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm an introvert who loves to create.  
+I believe in simple tools, clean code, and sharing what I learn.
+
+---
+
+### 🛠 What I do
+
+- Build web and desktop apps  
+- Work with TypeScript, Node.js, and FFmpeg  
+- Create useful open-source tools  
+- Learn something new every day  
+
+---
+
+### ✨ Why I build
+
+To learn.  
+To grow.  
+To help someone like me — starting from zero.
+
+---
+
+Thanks for visiting my profile.  
+I'm just getting started. 🚀
